@@ -1,6 +1,6 @@
 # Hi, I'm Lohan Cassiano 👋
 
-**Brazilian living in Calabria, Italy · Building toward Full Stack**
+**Brazilian living in Florence, Italy · Building toward Full Stack**
 
 I'm studying Systems Analysis and Development (ADS) and working every day to become a Full Stack Developer. I'm drawn to building things that are functional, well-designed, and meaningful — whether that's a web app or a road trip through the mountains.
 
